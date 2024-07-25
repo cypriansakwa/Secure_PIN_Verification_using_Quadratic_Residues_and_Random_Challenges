@@ -1,0 +1,9 @@
+[package]
+name = "ZKP_PIN_Creation"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+num-bigint = "0.4.6"
+num-traits = "0.2.19"
