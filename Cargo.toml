@@ -1,5 +1,5 @@
 [package]
-name = "ZKP_PIN_Creation"
+name = "Secure_PIN_Verification_using_Quadratic_Residues_and_Random_Challenges"
 version = "0.1.0"
 edition = "2021"
 
